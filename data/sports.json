@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "1_1",
+    "difficulty": 1,
+    "question": "In which sport would you perform a slam dunk?",
+    "options": {
+      "A": "Soccer",
+      "B": "Basketball",
+      "C": "Baseball",
+      "D": "Tennis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "1_2",
+    "difficulty": 1,
+    "question": "How many players are on a standard soccer team on the field at the start of a match?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "2_1",
+    "difficulty": 2,
+    "question": "What is the name of the championship game of the National Football League (NFL) in the USA?",
+    "options": {
+      "A": "The World Series",
+      "B": "The Stanley Cup",
+      "C": "The Super Bowl",
+      "D": "The NBA Finals"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "2_2",
+    "difficulty": 2,
+    "question": "The Olympic Games are held every how many years?",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "8 years"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "3_1",
+    "difficulty": 3,
+    "question": "In baseball, how many strikes does it take for the batter to be out?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "3_2",
+    "difficulty": 3,
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": {
+      "A": "Brazil",
+      "B": "Argentina",
+      "C": "Italy",
+      "D": "Uruguay"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "4_1",
+    "difficulty": 4,
+    "question": "Which legendary boxer was known as 'The Greatest' and 'The People's Champion'?",
+    "options": {
+      "A": "Mike Tyson",
+      "B": "Rocky Marciano",
+      "C": "Muhammad Ali",
+      "D": "Joe Frazier"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "4_2",
+    "difficulty": 4,
+    "question": "What is the term for a score of three strikes in a row in bowling?",
+    "options": {
+      "A": "A spare",
+      "B": "A turkey",
+      "C": "A flamingo",
+      "D": "A strikeout"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "5_1",
+    "difficulty": 5,
+    "question": "The Wimbledon Championships are famously associated with which sport?",
+    "options": {
+      "A": "Golf",
+      "B": "Cricket",
+      "C": "Horse Racing",
+      "D": "Tennis"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "5_2",
+    "difficulty": 5,
+    "question": "In which sport is the term 'puck' used?",
+    "options": {
+      "A": "Ice Hockey",
+      "B": "Lacrosse",
+      "C": "Rugby",
+      "D": "Water Polo"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "6_1",
+    "difficulty": 6,
+    "question": "Which cyclist has won the most Tour de France titles?",
+    "options": {
+      "A": "Jacques Anquetil",
+      "B": "Eddy Merckx",
+      "C": "Bernard Hinault",
+      "D": "Miguel Indurain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "6_2",
+    "difficulty": 6,
+    "question": "How long is a marathon in miles?",
+    "options": {
+      "A": "26.2 miles",
+      "B": "25 miles",
+      "C": "20.5 miles",
+      "D": "30 miles"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "7_1",
+    "difficulty": 7,
+    "question": "In American football, how many points is a touchdown worth, before the extra point attempt?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "7_2",
+    "difficulty": 7,
+    "question": "Michael Jordan famously played for which NBA team during the majority of his career?",
+    "options": {
+      "A": "Los Angeles Lakers",
+      "B": "Boston Celtics",
+      "C": "New York Knicks",
+      "D": "Chicago Bulls"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "8_1",
+    "difficulty": 8,
+    "question": "What is the only country to have played in every single FIFA World Cup?",
+    "options": {
+      "A": "Germany",
+      "B": "Argentina",
+      "C": "Brazil",
+      "D": "Italy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "8_2",
+    "difficulty": 8,
+    "question": "In cricket, what is the term for hitting the ball to the boundary without it bouncing?",
+    "options": {
+      "A": "A four",
+      "B": "A six",
+      "C": "A wide",
+      "D": "A no-ball"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "9_1",
+    "difficulty": 9,
+    "question": "Which of these events is NOT part of a standard men's decathlon?",
+    "options": {
+      "A": "110m hurdles",
+      "B": "Pole vault",
+      "C": "Hammer throw",
+      "D": "Javelin throw"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "9_2",
+    "difficulty": 9,
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": {
+      "A": "Paris, France",
+      "B": "Athens, Greece",
+      "C": "London, England",
+      "D": "Rome, Italy"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "10_1",
+    "difficulty": 10,
+    "question": "In boxing, who is the only heavyweight champion to finish his career with a perfect, undefeated record?",
+    "options": {
+      "A": "Muhammad Ali",
+      "B": "Mike Tyson",
+      "C": "Rocky Marciano",
+      "D": "Joe Louis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_2",
+    "difficulty": 10,
+    "question": "The 'perfect game' in baseball is a rare feat where a pitcher completes a game without any opposing player reaching base. How many batters does the pitcher face in a perfect game?",
+    "options": {
+      "A": "21",
+      "B": "24",
+      "C": "27",
+      "D": "30"
+    },
+    "correct_answer": "C"
+  }
+]

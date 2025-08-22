@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "1_1",
+    "difficulty": 1,
+    "question": "Which is the largest ocean on Earth?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "1_2",
+    "difficulty": 1,
+    "question": "Which country is home to the city of Rome?",
+    "options": {
+      "A": "Greece",
+      "B": "Italy",
+      "C": "Spain",
+      "D": "France"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "2_1",
+    "difficulty": 2,
+    "question": "What is the longest river in the world?",
+    "options": {
+      "A": "The Nile",
+      "B": "The Amazon",
+      "C": "The Yangtze",
+      "D": "The Mississippi"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "2_2",
+    "difficulty": 2,
+    "question": "Mount Everest, the world's highest peak, is located in which mountain range?",
+    "options": {
+      "A": "The Andes",
+      "B": "The Rockies",
+      "C": "The Himalayas",
+      "D": "The Alps"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "3_1",
+    "difficulty": 3,
+    "question": "Which country is also a continent?",
+    "options": {
+      "A": "India",
+      "B": "Greenland",
+      "C": "Australia",
+      "D": "Brazil"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "3_2",
+    "difficulty": 3,
+    "question": "What is the capital of Japan?",
+    "options": {
+      "A": "Beijing",
+      "B": "Seoul",
+      "C": "Bangkok",
+      "D": "Tokyo"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "4_1",
+    "difficulty": 4,
+    "question": "The Strait of Gibraltar separates the Iberian Peninsula from which continent?",
+    "options": {
+      "A": "Asia",
+      "B": "Africa",
+      "C": "South America",
+      "D": "Australia"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "4_2",
+    "difficulty": 4,
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": {
+      "A": "The Gobi Desert",
+      "B": "The Arabian Desert",
+      "C": "The Sahara Desert",
+      "D": "The Kalahari Desert"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_1",
+    "difficulty": 5,
+    "question": "Which of these countries is landlocked?",
+    "options": {
+      "A": "Uruguay",
+      "B": "Paraguay",
+      "C": "Peru",
+      "D": "Ecuador"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "5_2",
+    "difficulty": 5,
+    "question": "The ancient city of Petra is a famous archaeological site in which modern-day country?",
+    "options": {
+      "A": "Egypt",
+      "B": "Syria",
+      "C": "Jordan",
+      "D": "Lebanon"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "6_1",
+    "difficulty": 6,
+    "question": "What is the name of the sea that separates Australia and New Zealand?",
+    "options": {
+      "A": "Coral Sea",
+      "B": "Tasman Sea",
+      "C": "Arafura Sea",
+      "D": "Timor Sea"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "6_2",
+    "difficulty": 6,
+    "question": "Which river forms a significant part of the border between the United States and Mexico?",
+    "options": {
+      "A": "The Colorado River",
+      "B": "The Missouri River",
+      "C": "The Rio Grande",
+      "D": "The Arkansas River"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "7_1",
+    "difficulty": 7,
+    "question": "The 'Ring of Fire' is a major area in the basin of which ocean known for a high number of earthquakes and volcanic eruptions?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "7_2",
+    "difficulty": 7,
+    "question": "Lake Baikal, the world's largest freshwater lake by volume, is located in which country?",
+    "options": {
+      "A": "Canada",
+      "B": "China",
+      "C": "Kazakhstan",
+      "D": "Russia"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "8_1",
+    "difficulty": 8,
+    "question": "What is the term for a narrow strip of land connecting two larger landmasses and separating two bodies of water?",
+    "options": {
+      "A": "Peninsula",
+      "B": "Archipelago",
+      "C": "Isthmus",
+      "D": "Strait"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "8_2",
+    "difficulty": 8,
+    "question": "Which of the following cities is located at the highest altitude?",
+    "options": {
+      "A": "Mexico City, Mexico",
+      "B": "La Paz, Bolivia",
+      "C": "Bogotá, Colombia",
+      "D": "Quito, Ecuador"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "9_1",
+    "difficulty": 9,
+    "question": "The Prime Meridian, which marks 0° longitude, passes through which city?",
+    "options": {
+      "A": "Paris, France",
+      "B": "New York, USA",
+      "C": "Greenwich, England",
+      "D": "Geneva, Switzerland"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "9_2",
+    "difficulty": 9,
+    "question": "What is a Fjord?",
+    "options": {
+      "A": "A river delta in a polar region",
+      "B": "A hot spring that periodically erupts",
+      "C": "A sand dune formed by wind",
+      "D": "A long, narrow, deep inlet of the sea between high cliffs"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "10_1",
+    "difficulty": 10,
+    "question": "What is the only country that borders both the Caspian Sea and the Persian Gulf?",
+    "options": {
+      "A": "Turkey",
+      "B": "Turkmenistan",
+      "C": "Iran",
+      "D": "Iraq"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_2",
+    "difficulty": 10,
+    "question": "The exclave of Kaliningrad belongs to which country?",
+    "options": {
+      "A": "Poland",
+      "B": "Lithuania",
+      "C": "Belarus",
+      "D": "Russia"
+    },
+    "correct_answer": "D"
+  }
+]

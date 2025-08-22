@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "1_1",
+    "difficulty": 1,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": {
+      "A": "Charles Dickens",
+      "B": "William Shakespeare",
+      "C": "Jane Austen",
+      "D": "Mark Twain"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "1_2",
+    "difficulty": 1,
+    "question": "Who painted the 'Mona Lisa'?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "2_1",
+    "difficulty": 2,
+    "question": "In J.K. Rowling's series, what is the name of the boy wizard who attends Hogwarts?",
+    "options": {
+      "A": "Ron Weasley",
+      "B": "Draco Malfoy",
+      "C": "Neville Longbottom",
+      "D": "Harry Potter"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "2_2",
+    "difficulty": 2,
+    "question": "Which artist is famous for painting the ceiling of the Sistine Chapel?",
+    "options": {
+      "A": "Raphael",
+      "B": "Michelangelo",
+      "C": "Donatello",
+      "D": "Leonardo da Vinci"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "3_1",
+    "difficulty": 3,
+    "question": "Who wrote the American classic 'To Kill a Mockingbird'?",
+    "options": {
+      "A": "John Steinbeck",
+      "B": "F. Scott Fitzgerald",
+      "C": "Harper Lee",
+      "D": "Ernest Hemingway"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "3_2",
+    "difficulty": 3,
+    "question": "Which Dutch artist is famous for the painting 'The Starry Night'?",
+    "options": {
+      "A": "Rembrandt",
+      "B": "Johannes Vermeer",
+      "C": "Piet Mondrian",
+      "D": "Vincent van Gogh"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "4_1",
+    "difficulty": 4,
+    "question": "The novel 'The Great Gatsby' is written by which American author?",
+    "options": {
+      "A": "William Faulkner",
+      "B": "F. Scott Fitzgerald",
+      "C": "Mark Twain",
+      "D": "J.D. Salinger"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "4_2",
+    "difficulty": 4,
+    "question": "What is the first book in 'The Lord of the Rings' trilogy by J.R.R. Tolkien?",
+    "options": {
+      "A": "The Two Towers",
+      "B": "The Hobbit",
+      "C": "The Fellowship of the Ring",
+      "D": "The Return of the King"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_1",
+    "difficulty": 5,
+    "question": "The dystopian novel '1984', which introduced concepts like 'Big Brother' and 'Thoughtcrime', was written by whom?",
+    "options": {
+      "A": "Aldous Huxley",
+      "B": "Ray Bradbury",
+      "C": "George Orwell",
+      "D": "Philip K. Dick"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_2",
+    "difficulty": 5,
+    "question": "Which art movement, known for its emphasis on light and ordinary subject matter, includes artists like Claude Monet and Edgar Degas?",
+    "options": {
+      "A": "Cubism",
+      "B": "Surrealism",
+      "C": "Impressionism",
+      "D": "Baroque"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "6_1",
+    "difficulty": 6,
+    "question": "Who created the famous literary detective Sherlock Holmes?",
+    "options": {
+      "A": "Agatha Christie",
+      "B": "Arthur Conan Doyle",
+      "C": "G.K. Chesterton",
+      "D": "Edgar Allan Poe"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "6_2",
+    "difficulty": 6,
+    "question": "The famous marble sculpture 'David' was created by which Renaissance artist?",
+    "options": {
+      "A": "Donatello",
+      "B": "Raphael",
+      "C": "Bernini",
+      "D": "Michelangelo"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "7_1",
+    "difficulty": 7,
+    "question": "The epic Russian novel 'War and Peace' was written by which author?",
+    "options": {
+      "A": "Fyodor Dostoevsky",
+      "B": "Anton Chekhov",
+      "C": "Leo Tolstoy",
+      "D": "Vladimir Nabokov"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "7_2",
+    "difficulty": 7,
+    "question": "The iconic painting 'The Persistence of Memory', featuring melting clocks, was painted by which surrealist artist?",
+    "options": {
+      "A": "René Magritte",
+      "B": "Salvador Dalí",
+      "C": "Max Ernst",
+      "D": "Joan Miró"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "8_1",
+    "difficulty": 8,
+    "question": "Who is the author of the magical realism masterpiece 'One Hundred Years of Solitude'?",
+    "options": {
+      "A": "Jorge Luis Borges",
+      "B": "Isabel Allende",
+      "C": "Gabriel García Márquez",
+      "D": "Mario Vargas Llosa"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "8_2",
+    "difficulty": 8,
+    "question": "Which of these pairs of poets were key figures in the Romanticism movement?",
+    "options": {
+      "A": "T.S. Eliot and Ezra Pound",
+      "B": "William Wordsworth and Samuel Taylor Coleridge",
+      "C": "Alexander Pope and Jonathan Swift",
+      "D": "Allen Ginsberg and Jack Kerouac"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "9_1",
+    "difficulty": 9,
+    "question": "The modernist novel 'Ulysses', known for its experimental 'stream of consciousness' technique, was written by which Irish author?",
+    "options": {
+      "A": "W.B. Yeats",
+      "B": "Oscar Wilde",
+      "C": "Samuel Beckett",
+      "D": "James Joyce"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "9_2",
+    "difficulty": 9,
+    "question": "Picasso's monumental anti-war painting, depicting the bombing of a Basque town, is titled what?",
+    "options": {
+      "A": "The Weeping Woman",
+      "B": "Les Demoiselles d'Avignon",
+      "C": "Guernica",
+      "D": "The Old Guitarist"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_1",
+    "difficulty": 10,
+    "question": "Who wrote the complex and lengthy postmodern novel 'Infinite Jest'?",
+    "options": {
+      "A": "Thomas Pynchon",
+      "B": "Don DeLillo",
+      "C": "David Foster Wallace",
+      "D": "Cormac McCarthy"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_2",
+    "difficulty": 10,
+    "question": "What is the literary term for a novel written in the form of a series of documents, such as letters or diary entries?",
+    "options": {
+      "A": "Picaresque",
+      "B": "Epistolary",
+      "C": "Bildungsroman",
+      "D": "Metafiction"
+    },
+    "correct_answer": "B"
+  }
+]

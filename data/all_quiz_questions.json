@@ -1,0 +1,1562 @@
+[
+  {
+    "question_id": 1,
+    "difficulty": 1,
+    "question": "Who was the first President of the United States?",
+    "options": {
+      "A": "Thomas Jefferson",
+      "B": "Abraham Lincoln",
+      "C": "George Washington",
+      "D": "John Adams"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 2,
+    "difficulty": 1,
+    "question": "In which year did World War II end?",
+    "options": {
+      "A": "1945",
+      "B": "1918",
+      "C": "1939",
+      "D": "1955"
+    },
+    "correct_answer": "A",
+    "category": "History"
+  },
+  {
+    "question_id": 3,
+    "difficulty": 2,
+    "question": "The ancient pyramids of Giza are located in which country?",
+    "options": {
+      "A": "Sudan",
+      "B": "Egypt",
+      "C": "Mexico",
+      "D": "Peru"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 4,
+    "difficulty": 2,
+    "question": "Which famous explorer is often credited with 'discovering' America in 1492?",
+    "options": {
+      "A": "Ferdinand Magellan",
+      "B": "Marco Polo",
+      "C": "Vasco da Gama",
+      "D": "Christopher Columbus"
+    },
+    "correct_answer": "D",
+    "category": "History"
+  },
+  {
+    "question_id": 5,
+    "difficulty": 3,
+    "question": "The Renaissance, a period of 'rebirth' in art and learning, began in which European country?",
+    "options": {
+      "A": "France",
+      "B": "Spain",
+      "C": "Italy",
+      "D": "England"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 6,
+    "difficulty": 3,
+    "question": "The Roman Empire was centered around which sea?",
+    "options": {
+      "A": "Black Sea",
+      "B": "Mediterranean Sea",
+      "C": "Red Sea",
+      "D": "Caspian Sea"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 7,
+    "difficulty": 4,
+    "question": "The Magna Carta, a foundational document for modern democracy, was signed in which country in 1215?",
+    "options": {
+      "A": "France",
+      "B": "Germany",
+      "C": "Spain",
+      "D": "England"
+    },
+    "correct_answer": "D",
+    "category": "History"
+  },
+  {
+    "question_id": 8,
+    "difficulty": 4,
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "options": {
+      "A": "Joseph Stalin",
+      "B": "Vladimir Lenin",
+      "C": "Nikita Khrushchev",
+      "D": "Mikhail Gorbachev"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 9,
+    "difficulty": 5,
+    "question": "Which empire was ruled by the famous leader Julius Caesar?",
+    "options": {
+      "A": "The Persian Empire",
+      "B": "The Greek Empire",
+      "C": "The Roman Republic/Empire",
+      "D": "The Mongol Empire"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 10,
+    "difficulty": 5,
+    "question": "The Treaty of Tordesillas (1494) divided the newly discovered lands outside Europe between which two countries?",
+    "options": {
+      "A": "England and France",
+      "B": "Spain and Portugal",
+      "C": "Netherlands and England",
+      "D": "France and Spain"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 11,
+    "difficulty": 6,
+    "question": "What was the name of the last imperial dynasty of China, which ended in 1912? ",
+    "options": {
+      "A": "Ming Dynasty",
+      "B": "Han Dynasty",
+      "C": "Tang Dynasty",
+      "D": "Qing Dynasty"
+    },
+    "correct_answer": "D",
+    "category": "History"
+  },
+  {
+    "question_id": 12,
+    "difficulty": 6,
+    "question": "The Battle of Austerlitz in 1805 is considered a tactical masterpiece by which military commander? ",
+    "options": {
+      "A": "Duke of Wellington",
+      "B": "Napoleon Bonaparte",
+      "C": "General Kutuzov",
+      "D": "Archduke Charles"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 13,
+    "difficulty": 7,
+    "question": "The 'Great Game' was a 19th-century political and diplomatic confrontation between which two empires over influence in Central Asia? [6, 12, 32]",
+    "options": {
+      "A": "The Ottoman and Persian Empires",
+      "B": "The French and British Empires",
+      "C": "The British and Russian Empires",
+      "D": "The Austro-Hungarian and Russian Empires"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 14,
+    "difficulty": 7,
+    "question": "Who was the founder of the Mali Empire in the 13th century? [3, 27, 28]",
+    "options": {
+      "A": "Mansa Musa",
+      "B": "Sundiata Keita",
+      "C": "Askia the Great",
+      "D": "Sunni Ali Ber"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 15,
+    "difficulty": 8,
+    "question": "The Thirty Years' War (1618-1648) began primarily as a conflict between which two religious groups?",
+    "options": {
+      "A": "Christians and Muslims",
+      "B": "Pagans and Christians",
+      "C": "Catholics and Protestants",
+      "D": "Sunni and Shia Muslims"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 16,
+    "difficulty": 8,
+    "question": "What was the name of the series of wars fought between Rome and Carthage for control of the Mediterranean?",
+    "options": {
+      "A": "The Peloponnesian Wars",
+      "B": "The Punic Wars",
+      "C": "The Gallic Wars",
+      "D": "The Samnite Wars"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 17,
+    "difficulty": 9,
+    "question": "What was the 'Code of Hammurabi'?",
+    "options": {
+      "A": "A collection of epic poems",
+      "B": "A treaty ending the first Egyptian dynasty",
+      "C": "A manual for pyramid construction",
+      "D": "A Babylonian legal text"
+    },
+    "correct_answer": "D",
+    "category": "History"
+  },
+  {
+    "question_id": 18,
+    "difficulty": 9,
+    "question": "The political entity established by the Treaty of Rome in 1957, a precursor to the European Union, was known as what?",
+    "options": {
+      "A": "The European Coal and Steel Community",
+      "B": "The European Free Trade Association",
+      "C": "The European Economic Community",
+      "D": "The Council of Europe"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 19,
+    "difficulty": 10,
+    "question": "The 'War of the Triple Alliance' (1864-1870), one of the deadliest conflicts in South American history, saw Paraguay fight against which three allied countries?",
+    "options": {
+      "A": "Chile, Peru, and Bolivia",
+      "B": "Argentina, Brazil, and Uruguay",
+      "C": "Colombia, Venezuela, and Ecuador",
+      "D": "Argentina, Chile, and Peru"
+    },
+    "correct_answer": "B",
+    "category": "History"
+  },
+  {
+    "question_id": 20,
+    "difficulty": 10,
+    "question": "Who was the last emperor of the Byzantine Empire, who died during the Fall of Constantinople in 1453?",
+    "options": {
+      "A": "Justinian I",
+      "B": "Alexios I Komnenos",
+      "C": "Constantine XI Palaiologos",
+      "D": "Heraclius"
+    },
+    "correct_answer": "C",
+    "category": "History"
+  },
+  {
+    "question_id": 21,
+    "difficulty": 1,
+    "question": "Which is the largest ocean on Earth?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 22,
+    "difficulty": 1,
+    "question": "Which country is home to the city of Rome?",
+    "options": {
+      "A": "Greece",
+      "B": "Italy",
+      "C": "Spain",
+      "D": "France"
+    },
+    "correct_answer": "B",
+    "category": "Geography"
+  },
+  {
+    "question_id": 23,
+    "difficulty": 2,
+    "question": "What is the longest river in the world?",
+    "options": {
+      "A": "The Nile",
+      "B": "The Amazon",
+      "C": "The Yangtze",
+      "D": "The Mississippi"
+    },
+    "correct_answer": "A",
+    "category": "Geography"
+  },
+  {
+    "question_id": 24,
+    "difficulty": 2,
+    "question": "Mount Everest, the world's highest peak, is located in which mountain range?",
+    "options": {
+      "A": "The Andes",
+      "B": "The Rockies",
+      "C": "The Himalayas",
+      "D": "The Alps"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 25,
+    "difficulty": 3,
+    "question": "Which country is also a continent?",
+    "options": {
+      "A": "India",
+      "B": "Greenland",
+      "C": "Australia",
+      "D": "Brazil"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 26,
+    "difficulty": 3,
+    "question": "What is the capital of Japan?",
+    "options": {
+      "A": "Beijing",
+      "B": "Seoul",
+      "C": "Bangkok",
+      "D": "Tokyo"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 27,
+    "difficulty": 4,
+    "question": "The Strait of Gibraltar separates the Iberian Peninsula from which continent?",
+    "options": {
+      "A": "Asia",
+      "B": "Africa",
+      "C": "South America",
+      "D": "Australia"
+    },
+    "correct_answer": "B",
+    "category": "Geography"
+  },
+  {
+    "question_id": 28,
+    "difficulty": 4,
+    "question": "Which desert is the largest hot desert in the world?",
+    "options": {
+      "A": "The Gobi Desert",
+      "B": "The Arabian Desert",
+      "C": "The Sahara Desert",
+      "D": "The Kalahari Desert"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 29,
+    "difficulty": 5,
+    "question": "Which of these countries is landlocked?",
+    "options": {
+      "A": "Uruguay",
+      "B": "Paraguay",
+      "C": "Peru",
+      "D": "Ecuador"
+    },
+    "correct_answer": "B",
+    "category": "Geography"
+  },
+  {
+    "question_id": 30,
+    "difficulty": 5,
+    "question": "The ancient city of Petra is a famous archaeological site in which modern-day country?",
+    "options": {
+      "A": "Egypt",
+      "B": "Syria",
+      "C": "Jordan",
+      "D": "Lebanon"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 31,
+    "difficulty": 6,
+    "question": "What is the name of the sea that separates Australia and New Zealand?",
+    "options": {
+      "A": "Coral Sea",
+      "B": "Tasman Sea",
+      "C": "Arafura Sea",
+      "D": "Timor Sea"
+    },
+    "correct_answer": "B",
+    "category": "Geography"
+  },
+  {
+    "question_id": 32,
+    "difficulty": 6,
+    "question": "Which river forms a significant part of the border between the United States and Mexico?",
+    "options": {
+      "A": "The Colorado River",
+      "B": "The Missouri River",
+      "C": "The Rio Grande",
+      "D": "The Arkansas River"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 33,
+    "difficulty": 7,
+    "question": "The 'Ring of Fire' is a major area in the basin of which ocean known for a high number of earthquakes and volcanic eruptions?",
+    "options": {
+      "A": "Atlantic Ocean",
+      "B": "Indian Ocean",
+      "C": "Arctic Ocean",
+      "D": "Pacific Ocean"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 34,
+    "difficulty": 7,
+    "question": "Lake Baikal, the world's largest freshwater lake by volume, is located in which country?",
+    "options": {
+      "A": "Canada",
+      "B": "China",
+      "C": "Kazakhstan",
+      "D": "Russia"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 35,
+    "difficulty": 8,
+    "question": "What is the term for a narrow strip of land connecting two larger landmasses and separating two bodies of water?",
+    "options": {
+      "A": "Peninsula",
+      "B": "Archipelago",
+      "C": "Isthmus",
+      "D": "Strait"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 36,
+    "difficulty": 8,
+    "question": "Which of the following cities is located at the highest altitude?",
+    "options": {
+      "A": "Mexico City, Mexico",
+      "B": "La Paz, Bolivia",
+      "C": "Bogotá, Colombia",
+      "D": "Quito, Ecuador"
+    },
+    "correct_answer": "B",
+    "category": "Geography"
+  },
+  {
+    "question_id": 37,
+    "difficulty": 9,
+    "question": "The Prime Meridian, which marks 0° longitude, passes through which city?",
+    "options": {
+      "A": "Paris, France",
+      "B": "New York, USA",
+      "C": "Greenwich, England",
+      "D": "Geneva, Switzerland"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 38,
+    "difficulty": 9,
+    "question": "What is a Fjord?",
+    "options": {
+      "A": "A river delta in a polar region",
+      "B": "A hot spring that periodically erupts",
+      "C": "A sand dune formed by wind",
+      "D": "A long, narrow, deep inlet of the sea between high cliffs"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 39,
+    "difficulty": 10,
+    "question": "What is the only country that borders both the Caspian Sea and the Persian Gulf?",
+    "options": {
+      "A": "Turkey",
+      "B": "Turkmenistan",
+      "C": "Iran",
+      "D": "Iraq"
+    },
+    "correct_answer": "C",
+    "category": "Geography"
+  },
+  {
+    "question_id": 40,
+    "difficulty": 10,
+    "question": "The exclave of Kaliningrad belongs to which country?",
+    "options": {
+      "A": "Poland",
+      "B": "Lithuania",
+      "C": "Belarus",
+      "D": "Russia"
+    },
+    "correct_answer": "D",
+    "category": "Geography"
+  },
+  {
+    "question_id": 41,
+    "difficulty": 1,
+    "question": "What is the chemical formula for water?",
+    "options": {
+      "A": "O2",
+      "B": "CO2",
+      "C": "H2O",
+      "D": "NaCl"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 42,
+    "difficulty": 1,
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "correct_answer": "B",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 43,
+    "difficulty": 2,
+    "question": "What is the name of the process by which plants use sunlight to create food?",
+    "options": {
+      "A": "Respiration",
+      "B": "Transpiration",
+      "C": "Photosynthesis",
+      "D": "Germination"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 44,
+    "difficulty": 2,
+    "question": "What is the largest mammal on Earth?",
+    "options": {
+      "A": "African Elephant",
+      "B": "Giraffe",
+      "C": "Blue Whale",
+      "D": "Hippopotamus"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 45,
+    "difficulty": 3,
+    "question": "What force is responsible for pulling objects towards the center of the Earth?",
+    "options": {
+      "A": "Magnetism",
+      "B": "Friction",
+      "C": "Tension",
+      "D": "Gravity"
+    },
+    "correct_answer": "D",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 46,
+    "difficulty": 3,
+    "question": "What is the chemical symbol for the element Gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Go",
+      "C": "Au",
+      "D": "Gd"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 47,
+    "difficulty": 4,
+    "question": "How many bones are in the adult human body?",
+    "options": {
+      "A": "206",
+      "B": "212",
+      "C": "198",
+      "D": "300"
+    },
+    "correct_answer": "A",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 48,
+    "difficulty": 4,
+    "question": "What is the hardest naturally occurring substance on Earth?",
+    "options": {
+      "A": "Quartz",
+      "B": "Topaz",
+      "C": "Diamond",
+      "D": "Corundum"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 49,
+    "difficulty": 5,
+    "question": "What is the powerhouse of a cell?",
+    "options": {
+      "A": "Nucleus",
+      "B": "Ribosome",
+      "C": "Mitochondrion",
+      "D": "Cell Membrane"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 50,
+    "difficulty": 5,
+    "question": "Which of these is NOT a state of matter?",
+    "options": {
+      "A": "Solid",
+      "B": "Liquid",
+      "C": "Gas",
+      "D": "Energy"
+    },
+    "correct_answer": "D",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 51,
+    "difficulty": 6,
+    "question": "Who is credited with the discovery of penicillin?",
+    "options": {
+      "A": "Marie Curie",
+      "B": "Louis Pasteur",
+      "C": "Alexander Fleming",
+      "D": "Robert Koch"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 52,
+    "difficulty": 6,
+    "question": "What does a 'light-year' measure?",
+    "options": {
+      "A": "Time",
+      "B": "Brightness",
+      "C": "Distance",
+      "D": "Speed"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 53,
+    "difficulty": 7,
+    "question": "What does DNA stand for?",
+    "options": {
+      "A": "Deoxyribonucleic Acid",
+      "B": "Diribonucleic Acid",
+      "C": "Denatured Nucleic Acid",
+      "D": "Dynamic Nucleic Acid"
+    },
+    "correct_answer": "A",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 54,
+    "difficulty": 7,
+    "question": "What type of star is the Sun?",
+    "options": {
+      "A": "Red Giant",
+      "B": "White Dwarf",
+      "C": "Yellow Dwarf",
+      "D": "Blue Supergiant"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 55,
+    "difficulty": 8,
+    "question": "What is the scientific term for the process of a caterpillar transforming into a butterfly?",
+    "options": {
+      "A": "Evolution",
+      "B": "Metamorphosis",
+      "C": "Adaptation",
+      "D": "Symbiosis"
+    },
+    "correct_answer": "B",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 56,
+    "difficulty": 8,
+    "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+    "options": {
+      "A": "Troposphere",
+      "B": "Mesosphere",
+      "C": "Thermosphere",
+      "D": "Stratosphere"
+    },
+    "correct_answer": "D",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 57,
+    "difficulty": 9,
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Argon",
+      "D": "Nitrogen"
+    },
+    "correct_answer": "D",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 58,
+    "difficulty": 9,
+    "question": "In taxonomy, what is the correct order of the following classifications from most general to most specific?",
+    "options": {
+      "A": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+      "B": "Kingdom, Class, Phylum, Order, Family, Species, Genus",
+      "C": "Phylum, Kingdom, Class, Family, Order, Genus, Species",
+      "D": "Class, Kingdom, Phylum, Order, Family, Genus, Species"
+    },
+    "correct_answer": "A",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 59,
+    "difficulty": 10,
+    "question": "What fundamental concept in quantum mechanics states that it is impossible to know both the precise position and the precise momentum of a particle at the same time?",
+    "options": {
+      "A": "The Photoelectric Effect",
+      "B": "Schrödinger's Cat Paradox",
+      "C": "The Heisenberg Uncertainty Principle",
+      "D": "The Theory of General Relativity"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 60,
+    "difficulty": 10,
+    "question": "What is CRISPR-Cas9?",
+    "options": {
+      "A": "A type of fossil",
+      "B": "A distant galaxy",
+      "C": "A gene-editing technology",
+      "D": "A subatomic particle"
+    },
+    "correct_answer": "C",
+    "category": "Science & Nature"
+  },
+  {
+    "question_id": 61,
+    "difficulty": 1,
+    "question": "Which band from Liverpool was famously known as the 'Fab Four'?",
+    "options": {
+      "A": "The Rolling Stones",
+      "B": "The Who",
+      "C": "The Beatles",
+      "D": "Queen"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 62,
+    "difficulty": 1,
+    "question": "What is the name of the famous wizarding school in the Harry Potter series?",
+    "options": {
+      "A": "Durmstrang",
+      "B": "Beauxbatons",
+      "C": "Ilvermorny",
+      "D": "Hogwarts"
+    },
+    "correct_answer": "D",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 63,
+    "difficulty": 2,
+    "question": "What is the name of the fictional city protected by Batman?",
+    "options": {
+      "A": "Metropolis",
+      "B": "Gotham City",
+      "C": "Star City",
+      "D": "Central City"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 64,
+    "difficulty": 2,
+    "question": "Which 1990s TV show featured a group of six friends living in New York City?",
+    "options": {
+      "A": "Seinfeld",
+      "B": "Cheers",
+      "C": "Friends",
+      "D": "Frasier"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 65,
+    "difficulty": 3,
+    "question": "Who is famously known as the 'King of Pop'?",
+    "options": {
+      "A": "Elvis Presley",
+      "B": "Michael Jackson",
+      "C": "Prince",
+      "D": "James Brown"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 66,
+    "difficulty": 3,
+    "question": "In the 'Star Wars' movies, what is the weapon used by Jedi Knights?",
+    "options": {
+      "A": "Blaster",
+      "B": "Lightsaber",
+      "C": "Phaser",
+      "D": "Plasma Rifle"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 67,
+    "difficulty": 4,
+    "question": "Who directed the blockbuster films 'Titanic' and 'Avatar'?",
+    "options": {
+      "A": "Steven Spielberg",
+      "B": "George Lucas",
+      "C": "Christopher Nolan",
+      "D": "James Cameron"
+    },
+    "correct_answer": "D",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 68,
+    "difficulty": 4,
+    "question": "What is the name of the cube-based video game that is the best-selling of all time?",
+    "options": {
+      "A": "Tetris",
+      "B": "Minecraft",
+      "C": "Grand Theft Auto V",
+      "D": "Super Mario Bros."
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 69,
+    "difficulty": 5,
+    "question": "What is the name of Han Solo's iconic spaceship in 'Star Wars'?",
+    "options": {
+      "A": "Starship Enterprise",
+      "B": "Serenity",
+      "C": "Millennium Falcon",
+      "D": "Nostromo"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 70,
+    "difficulty": 5,
+    "question": "Which artist's dedicated fanbase is known as the 'Beyhive'?",
+    "options": {
+      "A": "Rihanna",
+      "B": "Taylor Swift",
+      "C": "Beyoncé",
+      "D": "Lady Gaga"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 71,
+    "difficulty": 6,
+    "question": "What was the first full-length animated movie released by Disney?",
+    "options": {
+      "A": "Pinocchio",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Cinderella",
+      "D": "Bambi"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 72,
+    "difficulty": 6,
+    "question": "The hit song 'I Will Always Love You,' famously performed by Whitney Houston, was written by which country music star?",
+    "options": {
+      "A": "Johnny Cash",
+      "B": "Tammy Wynette",
+      "C": "Loretta Lynn",
+      "D": "Dolly Parton"
+    },
+    "correct_answer": "D",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 73,
+    "difficulty": 7,
+    "question": "In the TV series 'Breaking Bad,' what is the street name of the blue meth created by Walter White?",
+    "options": {
+      "A": "Blue Magic",
+      "B": "Blue Sky",
+      "C": "Blue Ice",
+      "D": "Baby Blue"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 74,
+    "difficulty": 7,
+    "question": "In the series 'Game of Thrones,' what is the motto of House Stark?",
+    "options": {
+      "A": "Ours is the Fury",
+      "B": "Hear Me Roar!",
+      "C": "Winter is Coming",
+      "D": "Family, Duty, Honor"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 75,
+    "difficulty": 8,
+    "question": "What is the fictional country in Africa where the superhero Black Panther resides?",
+    "options": {
+      "A": "Genosha",
+      "B": "Latveria",
+      "C": "Sokovia",
+      "D": "Wakanda"
+    },
+    "correct_answer": "D",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 76,
+    "difficulty": 8,
+    "question": "Who won the very first season of the reality TV show 'American Idol' in 2002?",
+    "options": {
+      "A": "Carrie Underwood",
+      "B": "Kelly Clarkson",
+      "C": "Jennifer Hudson",
+      "D": "Adam Lambert"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 77,
+    "difficulty": 9,
+    "question": "In Quentin Tarantino's 'Pulp Fiction,' the contents of the mysterious glowing briefcase are never revealed. What is its combination?",
+    "options": {
+      "A": "1234",
+      "B": "9999",
+      "C": "0000",
+      "D": "666"
+    },
+    "correct_answer": "D",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 78,
+    "difficulty": 9,
+    "question": "What is the name of the fictional news network that serves as the setting for the 2004 comedy 'Anchorman: The Legend of Ron Burgundy'?",
+    "options": {
+      "A": "WNN",
+      "B": "GNN",
+      "C": "KVWN",
+      "D": "UBS"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 79,
+    "difficulty": 10,
+    "question": "Which film won the first-ever Academy Award for Best Picture in 1929?",
+    "options": {
+      "A": "The Circus",
+      "B": "The Jazz Singer",
+      "C": "Wings",
+      "D": "Metropolis"
+    },
+    "correct_answer": "C",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 80,
+    "difficulty": 10,
+    "question": "In Douglas Adams' 'The Hitchhiker's Guide to the Galaxy,' what is the 'Answer to the Ultimate Question of Life, the Universe, and Everything'?",
+    "options": {
+      "A": "Love",
+      "B": "42",
+      "C": "To live",
+      "D": "A towel"
+    },
+    "correct_answer": "B",
+    "category": "Pop Culture & Entertainment"
+  },
+  {
+    "question_id": 81,
+    "difficulty": 1,
+    "question": "In which sport would you perform a slam dunk?",
+    "options": {
+      "A": "Soccer",
+      "B": "Basketball",
+      "C": "Baseball",
+      "D": "Tennis"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 82,
+    "difficulty": 1,
+    "question": "How many players are on a standard soccer team on the field at the start of a match?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 83,
+    "difficulty": 2,
+    "question": "What is the name of the championship game of the National Football League (NFL) in the USA?",
+    "options": {
+      "A": "The World Series",
+      "B": "The Stanley Cup",
+      "C": "The Super Bowl",
+      "D": "The NBA Finals"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 84,
+    "difficulty": 2,
+    "question": "The Olympic Games are held every how many years?",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "8 years"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 85,
+    "difficulty": 3,
+    "question": "In baseball, how many strikes does it take for the batter to be out?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 86,
+    "difficulty": 3,
+    "question": "Which country won the first-ever FIFA World Cup in 1930?",
+    "options": {
+      "A": "Brazil",
+      "B": "Argentina",
+      "C": "Italy",
+      "D": "Uruguay"
+    },
+    "correct_answer": "D",
+    "category": "Sports"
+  },
+  {
+    "question_id": 87,
+    "difficulty": 4,
+    "question": "Which legendary boxer was known as 'The Greatest' and 'The People's Champion'?",
+    "options": {
+      "A": "Mike Tyson",
+      "B": "Rocky Marciano",
+      "C": "Muhammad Ali",
+      "D": "Joe Frazier"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 88,
+    "difficulty": 4,
+    "question": "What is the term for a score of three strikes in a row in bowling?",
+    "options": {
+      "A": "A spare",
+      "B": "A turkey",
+      "C": "A flamingo",
+      "D": "A strikeout"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 89,
+    "difficulty": 5,
+    "question": "The Wimbledon Championships are famously associated with which sport?",
+    "options": {
+      "A": "Golf",
+      "B": "Cricket",
+      "C": "Horse Racing",
+      "D": "Tennis"
+    },
+    "correct_answer": "D",
+    "category": "Sports"
+  },
+  {
+    "question_id": 90,
+    "difficulty": 5,
+    "question": "In which sport is the term 'puck' used?",
+    "options": {
+      "A": "Ice Hockey",
+      "B": "Lacrosse",
+      "C": "Rugby",
+      "D": "Water Polo"
+    },
+    "correct_answer": "A",
+    "category": "Sports"
+  },
+  {
+    "question_id": 91,
+    "difficulty": 6,
+    "question": "Which cyclist has won the most Tour de France titles?",
+    "options": {
+      "A": "Jacques Anquetil",
+      "B": "Eddy Merckx",
+      "C": "Bernard Hinault",
+      "D": "Miguel Indurain"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 92,
+    "difficulty": 6,
+    "question": "How long is a marathon in miles?",
+    "options": {
+      "A": "26.2 miles",
+      "B": "25 miles",
+      "C": "20.5 miles",
+      "D": "30 miles"
+    },
+    "correct_answer": "A",
+    "category": "Sports"
+  },
+  {
+    "question_id": 93,
+    "difficulty": 7,
+    "question": "In American football, how many points is a touchdown worth, before the extra point attempt?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 94,
+    "difficulty": 7,
+    "question": "Michael Jordan famously played for which NBA team during the majority of his career?",
+    "options": {
+      "A": "Los Angeles Lakers",
+      "B": "Boston Celtics",
+      "C": "New York Knicks",
+      "D": "Chicago Bulls"
+    },
+    "correct_answer": "D",
+    "category": "Sports"
+  },
+  {
+    "question_id": 95,
+    "difficulty": 8,
+    "question": "What is the only country to have played in every single FIFA World Cup?",
+    "options": {
+      "A": "Germany",
+      "B": "Argentina",
+      "C": "Brazil",
+      "D": "Italy"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 96,
+    "difficulty": 8,
+    "question": "In cricket, what is the term for hitting the ball to the boundary without it bouncing?",
+    "options": {
+      "A": "A four",
+      "B": "A six",
+      "C": "A wide",
+      "D": "A no-ball"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 97,
+    "difficulty": 9,
+    "question": "Which of these events is NOT part of a standard men's decathlon?",
+    "options": {
+      "A": "110m hurdles",
+      "B": "Pole vault",
+      "C": "Hammer throw",
+      "D": "Javelin throw"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 98,
+    "difficulty": 9,
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": {
+      "A": "Paris, France",
+      "B": "Athens, Greece",
+      "C": "London, England",
+      "D": "Rome, Italy"
+    },
+    "correct_answer": "B",
+    "category": "Sports"
+  },
+  {
+    "question_id": 99,
+    "difficulty": 10,
+    "question": "In boxing, who is the only heavyweight champion to finish his career with a perfect, undefeated record?",
+    "options": {
+      "A": "Muhammad Ali",
+      "B": "Mike Tyson",
+      "C": "Rocky Marciano",
+      "D": "Joe Louis"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 100,
+    "difficulty": 10,
+    "question": "The 'perfect game' in baseball is a rare feat where a pitcher completes a game without any opposing player reaching base. How many batters does the pitcher face in a perfect game?",
+    "options": {
+      "A": "21",
+      "B": "24",
+      "C": "27",
+      "D": "30"
+    },
+    "correct_answer": "C",
+    "category": "Sports"
+  },
+  {
+    "question_id": 101,
+    "difficulty": 1,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": {
+      "A": "Charles Dickens",
+      "B": "William Shakespeare",
+      "C": "Jane Austen",
+      "D": "Mark Twain"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 102,
+    "difficulty": 1,
+    "question": "Who painted the 'Mona Lisa'?",
+    "options": {
+      "A": "Vincent van Gogh",
+      "B": "Pablo Picasso",
+      "C": "Leonardo da Vinci",
+      "D": "Michelangelo"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 103,
+    "difficulty": 2,
+    "question": "In J.K. Rowling's series, what is the name of the boy wizard who attends Hogwarts?",
+    "options": {
+      "A": "Ron Weasley",
+      "B": "Draco Malfoy",
+      "C": "Neville Longbottom",
+      "D": "Harry Potter"
+    },
+    "correct_answer": "D",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 104,
+    "difficulty": 2,
+    "question": "Which artist is famous for painting the ceiling of the Sistine Chapel?",
+    "options": {
+      "A": "Raphael",
+      "B": "Michelangelo",
+      "C": "Donatello",
+      "D": "Leonardo da Vinci"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 105,
+    "difficulty": 3,
+    "question": "Who wrote the American classic 'To Kill a Mockingbird'?",
+    "options": {
+      "A": "John Steinbeck",
+      "B": "F. Scott Fitzgerald",
+      "C": "Harper Lee",
+      "D": "Ernest Hemingway"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 106,
+    "difficulty": 3,
+    "question": "Which Dutch artist is famous for the painting 'The Starry Night'?",
+    "options": {
+      "A": "Rembrandt",
+      "B": "Johannes Vermeer",
+      "C": "Piet Mondrian",
+      "D": "Vincent van Gogh"
+    },
+    "correct_answer": "D",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 107,
+    "difficulty": 4,
+    "question": "The novel 'The Great Gatsby' is written by which American author?",
+    "options": {
+      "A": "William Faulkner",
+      "B": "F. Scott Fitzgerald",
+      "C": "Mark Twain",
+      "D": "J.D. Salinger"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 108,
+    "difficulty": 4,
+    "question": "What is the first book in 'The Lord of the Rings' trilogy by J.R.R. Tolkien?",
+    "options": {
+      "A": "The Two Towers",
+      "B": "The Hobbit",
+      "C": "The Fellowship of the Ring",
+      "D": "The Return of the King"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 109,
+    "difficulty": 5,
+    "question": "The dystopian novel '1984', which introduced concepts like 'Big Brother' and 'Thoughtcrime', was written by whom?",
+    "options": {
+      "A": "Aldous Huxley",
+      "B": "Ray Bradbury",
+      "C": "George Orwell",
+      "D": "Philip K. Dick"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 110,
+    "difficulty": 5,
+    "question": "Which art movement, known for its emphasis on light and ordinary subject matter, includes artists like Claude Monet and Edgar Degas?",
+    "options": {
+      "A": "Cubism",
+      "B": "Surrealism",
+      "C": "Impressionism",
+      "D": "Baroque"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 111,
+    "difficulty": 6,
+    "question": "Who created the famous literary detective Sherlock Holmes?",
+    "options": {
+      "A": "Agatha Christie",
+      "B": "Arthur Conan Doyle",
+      "C": "G.K. Chesterton",
+      "D": "Edgar Allan Poe"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 112,
+    "difficulty": 6,
+    "question": "The famous marble sculpture 'David' was created by which Renaissance artist?",
+    "options": {
+      "A": "Donatello",
+      "B": "Raphael",
+      "C": "Bernini",
+      "D": "Michelangelo"
+    },
+    "correct_answer": "D",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 113,
+    "difficulty": 7,
+    "question": "The epic Russian novel 'War and Peace' was written by which author?",
+    "options": {
+      "A": "Fyodor Dostoevsky",
+      "B": "Anton Chekhov",
+      "C": "Leo Tolstoy",
+      "D": "Vladimir Nabokov"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 114,
+    "difficulty": 7,
+    "question": "The iconic painting 'The Persistence of Memory', featuring melting clocks, was painted by which surrealist artist?",
+    "options": {
+      "A": "René Magritte",
+      "B": "Salvador Dalí",
+      "C": "Max Ernst",
+      "D": "Joan Miró"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 115,
+    "difficulty": 8,
+    "question": "Who is the author of the magical realism masterpiece 'One Hundred Years of Solitude'?",
+    "options": {
+      "A": "Jorge Luis Borges",
+      "B": "Isabel Allende",
+      "C": "Gabriel García Márquez",
+      "D": "Mario Vargas Llosa"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 116,
+    "difficulty": 8,
+    "question": "Which of these pairs of poets were key figures in the Romanticism movement?",
+    "options": {
+      "A": "T.S. Eliot and Ezra Pound",
+      "B": "William Wordsworth and Samuel Taylor Coleridge",
+      "C": "Alexander Pope and Jonathan Swift",
+      "D": "Allen Ginsberg and Jack Kerouac"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 117,
+    "difficulty": 9,
+    "question": "The modernist novel 'Ulysses', known for its experimental 'stream of consciousness' technique, was written by which Irish author?",
+    "options": {
+      "A": "W.B. Yeats",
+      "B": "Oscar Wilde",
+      "C": "Samuel Beckett",
+      "D": "James Joyce"
+    },
+    "correct_answer": "D",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 118,
+    "difficulty": 9,
+    "question": "Picasso's monumental anti-war painting, depicting the bombing of a Basque town, is titled what?",
+    "options": {
+      "A": "The Weeping Woman",
+      "B": "Les Demoiselles d'Avignon",
+      "C": "Guernica",
+      "D": "The Old Guitarist"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 119,
+    "difficulty": 10,
+    "question": "Who wrote the complex and lengthy postmodern novel 'Infinite Jest'?",
+    "options": {
+      "A": "Thomas Pynchon",
+      "B": "Don DeLillo",
+      "C": "David Foster Wallace",
+      "D": "Cormac McCarthy"
+    },
+    "correct_answer": "C",
+    "category": "Arts & Literature"
+  },
+  {
+    "question_id": 120,
+    "difficulty": 10,
+    "question": "What is the literary term for a novel written in the form of a series of documents, such as letters or diary entries?",
+    "options": {
+      "A": "Picaresque",
+      "B": "Epistolary",
+      "C": "Bildungsroman",
+      "D": "Metafiction"
+    },
+    "correct_answer": "B",
+    "category": "Arts & Literature"
+  }
+]

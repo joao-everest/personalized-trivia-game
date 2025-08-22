@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "1_1",
+    "difficulty": 1,
+    "question": "Which band from Liverpool was famously known as the 'Fab Four'?",
+    "options": {
+      "A": "The Rolling Stones",
+      "B": "The Who",
+      "C": "The Beatles",
+      "D": "Queen"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "1_2",
+    "difficulty": 1,
+    "question": "What is the name of the famous wizarding school in the Harry Potter series?",
+    "options": {
+      "A": "Durmstrang",
+      "B": "Beauxbatons",
+      "C": "Ilvermorny",
+      "D": "Hogwarts"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "2_1",
+    "difficulty": 2,
+    "question": "What is the name of the fictional city protected by Batman?",
+    "options": {
+      "A": "Metropolis",
+      "B": "Gotham City",
+      "C": "Star City",
+      "D": "Central City"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "2_2",
+    "difficulty": 2,
+    "question": "Which 1990s TV show featured a group of six friends living in New York City?",
+    "options": {
+      "A": "Seinfeld",
+      "B": "Cheers",
+      "C": "Friends",
+      "D": "Frasier"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "3_1",
+    "difficulty": 3,
+    "question": "Who is famously known as the 'King of Pop'?",
+    "options": {
+      "A": "Elvis Presley",
+      "B": "Michael Jackson",
+      "C": "Prince",
+      "D": "James Brown"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "3_2",
+    "difficulty": 3,
+    "question": "In the 'Star Wars' movies, what is the weapon used by Jedi Knights?",
+    "options": {
+      "A": "Blaster",
+      "B": "Lightsaber",
+      "C": "Phaser",
+      "D": "Plasma Rifle"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "4_1",
+    "difficulty": 4,
+    "question": "Who directed the blockbuster films 'Titanic' and 'Avatar'?",
+    "options": {
+      "A": "Steven Spielberg",
+      "B": "George Lucas",
+      "C": "Christopher Nolan",
+      "D": "James Cameron"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "4_2",
+    "difficulty": 4,
+    "question": "What is the name of the cube-based video game that is the best-selling of all time?",
+    "options": {
+      "A": "Tetris",
+      "B": "Minecraft",
+      "C": "Grand Theft Auto V",
+      "D": "Super Mario Bros."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "5_1",
+    "difficulty": 5,
+    "question": "What is the name of Han Solo's iconic spaceship in 'Star Wars'?",
+    "options": {
+      "A": "Starship Enterprise",
+      "B": "Serenity",
+      "C": "Millennium Falcon",
+      "D": "Nostromo"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_2",
+    "difficulty": 5,
+    "question": "Which artist's dedicated fanbase is known as the 'Beyhive'?",
+    "options": {
+      "A": "Rihanna",
+      "B": "Taylor Swift",
+      "C": "Beyoncé",
+      "D": "Lady Gaga"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "6_1",
+    "difficulty": 6,
+    "question": "What was the first full-length animated movie released by Disney?",
+    "options": {
+      "A": "Pinocchio",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Cinderella",
+      "D": "Bambi"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "6_2",
+    "difficulty": 6,
+    "question": "The hit song 'I Will Always Love You,' famously performed by Whitney Houston, was written by which country music star?",
+    "options": {
+      "A": "Johnny Cash",
+      "B": "Tammy Wynette",
+      "C": "Loretta Lynn",
+      "D": "Dolly Parton"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "7_1",
+    "difficulty": 7,
+    "question": "In the TV series 'Breaking Bad,' what is the street name of the blue meth created by Walter White?",
+    "options": {
+      "A": "Blue Magic",
+      "B": "Blue Sky",
+      "C": "Blue Ice",
+      "D": "Baby Blue"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "7_2",
+    "difficulty": 7,
+    "question": "In the series 'Game of Thrones,' what is the motto of House Stark?",
+    "options": {
+      "A": "Ours is the Fury",
+      "B": "Hear Me Roar!",
+      "C": "Winter is Coming",
+      "D": "Family, Duty, Honor"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "8_1",
+    "difficulty": 8,
+    "question": "What is the fictional country in Africa where the superhero Black Panther resides?",
+    "options": {
+      "A": "Genosha",
+      "B": "Latveria",
+      "C": "Sokovia",
+      "D": "Wakanda"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "8_2",
+    "difficulty": 8,
+    "question": "Who won the very first season of the reality TV show 'American Idol' in 2002?",
+    "options": {
+      "A": "Carrie Underwood",
+      "B": "Kelly Clarkson",
+      "C": "Jennifer Hudson",
+      "D": "Adam Lambert"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "9_1",
+    "difficulty": 9,
+    "question": "In Quentin Tarantino's 'Pulp Fiction,' the contents of the mysterious glowing briefcase are never revealed. What is its combination?",
+    "options": {
+      "A": "1234",
+      "B": "9999",
+      "C": "0000",
+      "D": "666"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "9_2",
+    "difficulty": 9,
+    "question": "What is the name of the fictional news network that serves as the setting for the 2004 comedy 'Anchorman: The Legend of Ron Burgundy'?",
+    "options": {
+      "A": "WNN",
+      "B": "GNN",
+      "C": "KVWN",
+      "D": "UBS"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_1",
+    "difficulty": 10,
+    "question": "Which film won the first-ever Academy Award for Best Picture in 1929?",
+    "options": {
+      "A": "The Circus",
+      "B": "The Jazz Singer",
+      "C": "Wings",
+      "D": "Metropolis"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_2",
+    "difficulty": 10,
+    "question": "In Douglas Adams' 'The Hitchhiker's Guide to the Galaxy,' what is the 'Answer to the Ultimate Question of Life, the Universe, and Everything'?",
+    "options": {
+      "A": "Love",
+      "B": "42",
+      "C": "To live",
+      "D": "A towel"
+    },
+    "correct_answer": "B"
+  }
+]

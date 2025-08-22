@@ -1,0 +1,242 @@
+[
+  {
+    "question_id": "1_1",
+    "difficulty": 1,
+    "question": "What is the chemical formula for water?",
+    "options": {
+      "A": "O2",
+      "B": "CO2",
+      "C": "H2O",
+      "D": "NaCl"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "1_2",
+    "difficulty": 1,
+    "question": "Which planet is known as the Red Planet?",
+    "options": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Jupiter",
+      "D": "Saturn"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "2_1",
+    "difficulty": 2,
+    "question": "What is the name of the process by which plants use sunlight to create food?",
+    "options": {
+      "A": "Respiration",
+      "B": "Transpiration",
+      "C": "Photosynthesis",
+      "D": "Germination"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "2_2",
+    "difficulty": 2,
+    "question": "What is the largest mammal on Earth?",
+    "options": {
+      "A": "African Elephant",
+      "B": "Giraffe",
+      "C": "Blue Whale",
+      "D": "Hippopotamus"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "3_1",
+    "difficulty": 3,
+    "question": "What force is responsible for pulling objects towards the center of the Earth?",
+    "options": {
+      "A": "Magnetism",
+      "B": "Friction",
+      "C": "Tension",
+      "D": "Gravity"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "3_2",
+    "difficulty": 3,
+    "question": "What is the chemical symbol for the element Gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Go",
+      "C": "Au",
+      "D": "Gd"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "4_1",
+    "difficulty": 4,
+    "question": "How many bones are in the adult human body?",
+    "options": {
+      "A": "206",
+      "B": "212",
+      "C": "198",
+      "D": "300"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "4_2",
+    "difficulty": 4,
+    "question": "What is the hardest naturally occurring substance on Earth?",
+    "options": {
+      "A": "Quartz",
+      "B": "Topaz",
+      "C": "Diamond",
+      "D": "Corundum"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_1",
+    "difficulty": 5,
+    "question": "What is the powerhouse of a cell?",
+    "options": {
+      "A": "Nucleus",
+      "B": "Ribosome",
+      "C": "Mitochondrion",
+      "D": "Cell Membrane"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "5_2",
+    "difficulty": 5,
+    "question": "Which of these is NOT a state of matter?",
+    "options": {
+      "A": "Solid",
+      "B": "Liquid",
+      "C": "Gas",
+      "D": "Energy"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "6_1",
+    "difficulty": 6,
+    "question": "Who is credited with the discovery of penicillin?",
+    "options": {
+      "A": "Marie Curie",
+      "B": "Louis Pasteur",
+      "C": "Alexander Fleming",
+      "D": "Robert Koch"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "6_2",
+    "difficulty": 6,
+    "question": "What does a 'light-year' measure?",
+    "options": {
+      "A": "Time",
+      "B": "Brightness",
+      "C": "Distance",
+      "D": "Speed"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "7_1",
+    "difficulty": 7,
+    "question": "What does DNA stand for?",
+    "options": {
+      "A": "Deoxyribonucleic Acid",
+      "B": "Diribonucleic Acid",
+      "C": "Denatured Nucleic Acid",
+      "D": "Dynamic Nucleic Acid"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "7_2",
+    "difficulty": 7,
+    "question": "What type of star is the Sun?",
+    "options": {
+      "A": "Red Giant",
+      "B": "White Dwarf",
+      "C": "Yellow Dwarf",
+      "D": "Blue Supergiant"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "8_1",
+    "difficulty": 8,
+    "question": "What is the scientific term for the process of a caterpillar transforming into a butterfly?",
+    "options": {
+      "A": "Evolution",
+      "B": "Metamorphosis",
+      "C": "Adaptation",
+      "D": "Symbiosis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_id": "8_2",
+    "difficulty": 8,
+    "question": "Which layer of the Earth's atmosphere contains the ozone layer?",
+    "options": {
+      "A": "Troposphere",
+      "B": "Mesosphere",
+      "C": "Thermosphere",
+      "D": "Stratosphere"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "9_1",
+    "difficulty": 9,
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Carbon Dioxide",
+      "C": "Argon",
+      "D": "Nitrogen"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_id": "9_2",
+    "difficulty": 9,
+    "question": "In taxonomy, what is the correct order of the following classifications from most general to most specific?",
+    "options": {
+      "A": "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+      "B": "Kingdom, Class, Phylum, Order, Family, Species, Genus",
+      "C": "Phylum, Kingdom, Class, Family, Order, Genus, Species",
+      "D": "Class, Kingdom, Phylum, Order, Family, Genus, Species"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_id": "10_1",
+    "difficulty": 10,
+    "question": "What fundamental concept in quantum mechanics states that it is impossible to know both the precise position and the precise momentum of a particle at the same time?",
+    "options": {
+      "A": "The Photoelectric Effect",
+      "B": "Schrödinger's Cat Paradox",
+      "C": "The Heisenberg Uncertainty Principle",
+      "D": "The Theory of General Relativity"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_id": "10_2",
+    "difficulty": 10,
+    "question": "What is CRISPR-Cas9?",
+    "options": {
+      "A": "A type of fossil",
+      "B": "A distant galaxy",
+      "C": "A gene-editing technology",
+      "D": "A subatomic particle"
+    },
+    "correct_answer": "C"
+  }
+]
